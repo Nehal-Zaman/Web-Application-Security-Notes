@@ -38,4 +38,5 @@ This causes the application to read - `/var/www/images/../../../etc/passwd` -> `
 **REFERENCES** - 
 
 [https://portswigger.net/web-security/file-path-traversal](https://portswigger.net/web-security/file-path-traversal)
+
 [https://github.com/N3H4L/PayloadsAllTheThings/tree/master/Directory%20Traversal](https://github.com/N3H4L/PayloadsAllTheThings/tree/master/Directory%20Traversal)
