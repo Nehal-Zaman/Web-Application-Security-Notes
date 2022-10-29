@@ -6,7 +6,7 @@ Server Side Template Injection (SSTI) is a server side vulnerability where an at
 
 They arise when user-supplied data is directly concatenated into the template, instead of passing them as data.
 
-# Imapact of SSTI
+# Impact of SSTI
 
 - At the worst, SSTI can be used to achieve Remote Code Execution (RCE)
 - It can also be used to read sensitive data and arbitrary files on the server.
